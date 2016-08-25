@@ -1,7 +1,7 @@
 ---
 author: nfiarts
 layout: page-material-sidebar-left
-featimg: https://www.isyanation.tk/articles/img/img/tanah-airku-head.jpg
+featimg: https://www.isyanation.tk/articles/img/tanah-airku-head.jpg
 tags: [info]
 category: [first]
 ---
